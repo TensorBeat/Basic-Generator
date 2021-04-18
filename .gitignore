@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.pytest_cache
+logs
+dist
+.env
+gcp-admin-key.json
+outputs
+DeepSpeed
